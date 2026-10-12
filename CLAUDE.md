@@ -6,7 +6,7 @@ See `AGENTS.md` for the repository rules. In particular: **never add agent attri
 
 ## What this repo is
 
-A data-only repository of Internet AS-level topology datasets. Nothing is built, linted, or tested here. The datasets are produced by the tooling in https://github.com/carlos-cagnazzo/internet-topology-ris. Changes to how data is generated belong in that repo, not here. The `202504/` snapshot holds the datasets used for the paper "Unveiling the Internet AS Topology".
+A data-only repository of Internet AS-level topology datasets. Nothing is built, linted, or tested here. The datasets are produced by the tooling in https://github.com/carlos-cagnazzo/internet-topology-ris. Changes to how data is generated belong in that repo, not here.
 
 ## Layout and formats
 

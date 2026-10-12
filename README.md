@@ -6,7 +6,7 @@ Internet AS-level topology datasets, built from public BGP data collected by [RI
 
 | Snapshot | Contents |
 |----------|----------|
-| [2025-04](202504/) | AS adjacencies, unique ASNs, raw IPv4/IPv6 AS paths. Used for the paper *Unveiling the Internet AS Topology*. |
+| [2025-04](202504/) | AS adjacencies, unique ASNs, raw IPv4/IPv6 AS paths. |
 | [2026-07](202607/) | AS adjacencies (plain text and GML), ASN list, CAIDA peerings, and an approximation of the Tier-1 set. |
 
 ## Formats

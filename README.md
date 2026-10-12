@@ -20,3 +20,9 @@ Internet AS-level topology datasets, built from public BGP data collected by [RI
   ```sh
   cat 202504/ipv4-paths_* | bunzip2 > ipv4-paths.txt
   ```
+
+## Talks, presentations and papers
+
+Work that has used these datasets:
+
+- **El grafo de los ASNs de Internet** (*The Internet ASN graph*). Claudio Risso and Carlos Martínez, LACNIC 45 Technical Forum, 28 May 2026. [Session page](https://lacnic45.lacnic.net/es/programa/agenda/el-grafo-de-los-asns-de-internet), [slides (PDF)](talks/el-grafo-de-los-asns-de-internet-lacnic45.pdf), video in [Spanish](https://youtu.be/02ROROD3dVM) (original), [English](https://youtu.be/EBa1wEFbnKs) and [Portuguese](https://youtu.be/YXNHc5nR2CY) (interpreted).

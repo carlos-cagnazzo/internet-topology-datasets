@@ -10,6 +10,8 @@ A data-only repository of Internet AS-level topology datasets. Nothing is built,
 
 ## Layout and formats
 
+`talks/` holds slide PDFs from talks that used the datasets. Each one has an entry in the README's "Talks, presentations and papers" section, which links to the PDF and to externally hosted videos (videos are never stored in the repo).
+
 One directory per snapshot, named `YYYYMM/`. Filenames embed the snapshot date, but the naming has changed between snapshots (`202504/unique-asns-2025.txt` vs. `202607/topology-202607-asns.txt`). Follow the most recent snapshot's naming when you add a new one.
 
 ASNs are written as zero-padded 8-digit decimals (`00007046`), space-separated, one record per line:
